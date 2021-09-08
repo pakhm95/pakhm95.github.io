@@ -17,21 +17,21 @@ lin:
 
   # generate social links
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
+    #twitter: jekyllrb
+    github:  pakhm95
+    #medium:  jekyll
     rss: rss
-    dribbble: jekyll
-    facebook: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+    #dribbble: jekyll
+    facebook: pakhj53
+    #flickr:   jekyll
+    instagram: pakhj53
+    #linkedin: jekyll
+    #pinterest: jekyll
+    #youtube_user: jekyll
+    #youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    #telegram: jekyll
+    #googleplus: +jekyll
+    #keybase: jekyll
 
 theme: lin
 
